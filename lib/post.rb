@@ -1,3 +1,3 @@
-class Artist 
-  attr_accessor :title, :author 
+class Post
+  attr_accessor :title, :author
 end
